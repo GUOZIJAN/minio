@@ -52,7 +52,7 @@ See the sections below for detailed instructions on each method.
 Historical pre-compiled binary releases remain available for reference but are no longer maintained:
 
 - GitHub Releases: https://github.com/minio/minio/releases
-- Direct downloads: https://dl.min.io/server/minio/release/
+- Direct downloads: https://min.io/download
 
 **These legacy binaries will not receive updates.** We strongly recommend using source builds for access to the latest features, bug fixes, and security updates.
 
